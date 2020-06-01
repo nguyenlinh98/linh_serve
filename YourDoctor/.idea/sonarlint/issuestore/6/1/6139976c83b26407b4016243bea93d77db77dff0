@@ -1,0 +1,6 @@
+
+d	php:S1192"ODefine a constant instead of duplicating this literal "SELECT * FROM " 3 times.(ฬด๐
+_php:S112e"FDefine and throw a dedicated exception instead of using a generic one.(ส–ซ๚ÿÿÿÿ
+c	php:S1117'"IRename "$query" which has the same name as the field declared at line 14.(ตๅต๛ÿÿÿÿ
+8php:S125W"Remove this commented out code.(เสุฦ๙ÿÿÿÿ
+8php:S125""Remove this commented out code.(เสุฦ๙ÿÿÿÿ
